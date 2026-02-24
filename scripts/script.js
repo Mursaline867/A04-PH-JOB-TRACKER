@@ -9,6 +9,28 @@ const jobs = [
           description:
             "Build responsive UI for an e-commerce dashboard. Work with REST APIs and fix real production UI bugs.",
           status: null,
+        },
+        {
+          id: "J-1002",
+          companyName: "CloudCraft",
+          position: "JavaScript Developer",
+          location: "Remote (GMT+6 friendly)",
+          type: "Contract",
+          salary: "$200–$500/month",
+          description:
+            "Create reusable components and improve page performance. Strong DOM and event handling required.",
+          status: null,
+        },
+        {
+          id: "J-1003",
+          companyName: "FinNest",
+          position: "UI Engineer",
+          location: "Nasirabaad, Chattogram",
+          type: "Full-time",
+          salary: "$45,000–$70,000",
+          description:
+            "Work closely with design team to convert Figma screens into accessible UI with consistent spacing and typography.",
+          status: null,
         }
       ];
 
